@@ -1,0 +1,14 @@
+h1 {
+  color: red; }
+
+section {
+  background: #f9ed69; }
+  section h1 {
+    background: darkred; }
+  section h2 {
+    background: darkblue;
+    color: white; }
+  section p {
+    background: orange; }
+
+/*# sourceMappingURL=estilo.css.map */

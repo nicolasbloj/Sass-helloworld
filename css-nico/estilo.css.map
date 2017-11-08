@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,EAAE;EACD,KAAK,EAAE,GAAG;;AAEX,OAAO;EACH,UAAU,EAAG,OAAO;EACpB,UAAE;IACE,UAAU,EAAE,OAAO;EAEvB,UAAE;IACE,UAAU,EAAE,QAAQ;IACpB,KAAK,EAAE,KAAK;EAEhB,SAAC;IACG,UAAU,EAAE,MAAM",
+"sources": ["../sass-nico/estilo.scss"],
+"names": [],
+"file": "estilo.css"
+}
