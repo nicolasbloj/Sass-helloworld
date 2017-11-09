@@ -1,7 +1,0 @@
-{
-"version": 3,
-"mappings": "AAAA,MAAM;EACF,UAAU,EAAE,QAAQ;;AAGpB,SAAG;EACC,KAAK,EAAC,OAAO;EACb,eAAM;IACF,KAAK,EAAE,MAAM",
-"sources": ["../sass-nico/footer.scss"],
-"names": [],
-"file": "footer.css"
-}

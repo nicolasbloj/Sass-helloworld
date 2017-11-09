@@ -1,8 +1,18 @@
+/*SIN EXTENSION NI GUIN BAJO*/
+footer {
+  background: darkgray; }
+
+footer h4 {
+  color: #4D8B00; }
+  footer h4 small {
+    color: #FF0077; }
+
+/*LO IDEAL ES QUE EN ESTE ARCHIVO PRINCIPAL SOLO ESTEN LAS IMPORTACIONES*/
 h1 {
   color: red; }
 
 section {
-  background: #f9ed69; }
+  background: #3D999B; }
   section h1 {
     background: darkred; }
   section h2 {

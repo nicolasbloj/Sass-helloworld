@@ -1,5 +1,9 @@
-$color1:#f9ed69;
+/*SIN EXTENSION NI GUIN BAJO*/
+@import "variables" ;
+@import "footer" ;
 
+
+/*LO IDEAL ES QUE EN ESTE ARCHIVO PRINCIPAL SOLO ESTEN LAS IMPORTACIONES*/
 h1{
  color: red;
 }
