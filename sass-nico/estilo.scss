@@ -1,8 +1,10 @@
+$color1:#f9ed69;
+
 h1{
  color: red;
 }
 section{
-    background : #f9ed69;
+    background : $color1;
     h1{
         background: darkred;
     }
