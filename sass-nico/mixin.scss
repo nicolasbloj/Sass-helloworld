@@ -1,0 +1,21 @@
+@import "variables";
+
+@mixin cuadrado($fondo,$w:50px,$h:50px){ /*Por defecto 50px*/
+    background-color: $fondo;
+    width: $w;
+    height: $h;
+    margin: 3px;
+    padding:15px;
+}
+
+.cuadrado1{ 
+    @include cuadrado($color1,300px,300px)
+}
+
+.cuadrado2{ 
+    @include cuadrado(blue,200px,200px)
+}
+
+.cuadrado3{ 
+    @include cuadrado(red,100px) /*TOMARA POR DEFECTO 50PX*/
+}

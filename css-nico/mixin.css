@@ -1,0 +1,25 @@
+.cuadrado1 {
+  /*Por defecto 50px*/
+  background-color: #3D999B;
+  width: 300px;
+  height: 300px;
+  margin: 3px;
+  padding: 15px; }
+
+.cuadrado2 {
+  /*Por defecto 50px*/
+  background-color: blue;
+  width: 200px;
+  height: 200px;
+  margin: 3px;
+  padding: 15px; }
+
+.cuadrado3 {
+  /*Por defecto 50px*/
+  background-color: red;
+  width: 100px;
+  height: 50px;
+  margin: 3px;
+  padding: 15px; }
+
+/*# sourceMappingURL=mixin.css.map */
